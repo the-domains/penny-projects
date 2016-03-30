@@ -1,0 +1,14 @@
+layout_spectrum: 0.3817204
+color:
+  saturation: 0.8064516
+  lightness: 0.3189964
+  brandStrength: 0.8351254
+  brandColors:
+    - '#000000'
+    - '#FCFDFC'
+    - '#30271F'
+    - '#034449'
+    - '#C6BCB4'
+  rhythmicContrast: 0.797491
+typography_spectrum: 0.7293907
+name: Penny Projects
